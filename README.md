@@ -13,8 +13,8 @@ I am a Solution Architect based in Sweden with a profound love for anything data
 * Cloud Platforms
 
 - 📫 How to reach me:
-https://www.linkedin.com/in/isacandersson/
-here at GitHub!
+* https://www.linkedin.com/in/isacandersson/
+* Here at GitHub!
 
 <!---
 izaackio/izaackio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
